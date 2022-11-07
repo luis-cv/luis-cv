@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, welcome to my GitHub bio, I'm Luis
+:books: I'm a Software Engineering student in Universidad Veracruzana
+
+:octocat: I'm still learning how to use GitHub
+
+:snake: Recently started learning Python
 
 <!--
 **luis-cv/luis-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
